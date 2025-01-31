@@ -14,6 +14,11 @@
   dependencies:
     tslib "^2.4.0"
 
+"@evyweb/ioctopus@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@evyweb/ioctopus/-/ioctopus-1.2.0.tgz#6bbe372cc4b2908cdbd01d9bd6b38771464a8639"
+  integrity sha512-OIISYUx7WZDm6uxQkVsKmNF13tEiA3gbUeboTkr4LUTmJffhSVswiWAs8Ng5DoyvUlmgteTYcHP5XzOtrPTxLw==
+
 "@floating-ui/core@^1.6.0":
   version "1.6.9"
   resolved "https://registry.yarnpkg.com/@floating-ui/core/-/core-1.6.9.tgz#64d1da251433019dafa091de9b2886ff35ec14e6"
@@ -1630,3 +1635,8 @@ yaml@^2.3.4:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.7.0.tgz#aef9bb617a64c937a9a748803786ad8d3ffe1e98"
   integrity sha512-+hSoy/QHluxmC9kCIJyL/uyFmLmc+e5CFR5Wa+bpIhIj85LVb9ZH2nVnqrHoSvKogwODv0ClqZkmiSSaIH5LTA==
+
+zod@^3.24.1:
+  version "3.24.1"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.24.1.tgz#27445c912738c8ad1e9de1bea0359fa44d9d35ee"
+  integrity sha512-muH7gBL9sI1nciMZV67X5fTKKBLtwpZ5VBp1vsOQzj1MhrBZ4wlVCm3gedKZWLp0Oyel8sIGfeiz54Su+OVT+A==
